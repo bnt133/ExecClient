@@ -1,0 +1,17 @@
+C:\Users\bretr\OneDrive\Documents\VBA\New folder\A3FL_New_Executive Application\Executive Application\bin\Release\Executive Application.exe.config
+C:\Users\bretr\OneDrive\Documents\VBA\New folder\A3FL_New_Executive Application\Executive Application\bin\Release\Executive Application.exe.manifest
+C:\Users\bretr\OneDrive\Documents\VBA\New folder\A3FL_New_Executive Application\Executive Application\bin\Release\Executive Application.application
+C:\Users\bretr\OneDrive\Documents\VBA\New folder\A3FL_New_Executive Application\Executive Application\bin\Release\Executive Application.exe
+C:\Users\bretr\OneDrive\Documents\VBA\New folder\A3FL_New_Executive Application\Executive Application\bin\Release\Executive Application.pdb
+C:\Users\bretr\OneDrive\Documents\VBA\New folder\A3FL_New_Executive Application\Executive Application\obj\Release\Executive_Application.Form1.resources
+C:\Users\bretr\OneDrive\Documents\VBA\New folder\A3FL_New_Executive Application\Executive Application\obj\Release\Executive_Application.QACloseDialog.resources
+C:\Users\bretr\OneDrive\Documents\VBA\New folder\A3FL_New_Executive Application\Executive Application\obj\Release\Executive_Application.Properties.Resources.resources
+C:\Users\bretr\OneDrive\Documents\VBA\New folder\A3FL_New_Executive Application\Executive Application\obj\Release\Executive_Application.QAFixClose.resources
+C:\Users\bretr\OneDrive\Documents\VBA\New folder\A3FL_New_Executive Application\Executive Application\obj\Release\Executive_Application.Settings.resources
+C:\Users\bretr\OneDrive\Documents\VBA\New folder\A3FL_New_Executive Application\Executive Application\obj\Release\Executive Application.csproj.GenerateResource.cache
+C:\Users\bretr\OneDrive\Documents\VBA\New folder\A3FL_New_Executive Application\Executive Application\obj\Release\Executive Application.csproj.CoreCompileInputs.cache
+C:\Users\bretr\OneDrive\Documents\VBA\New folder\A3FL_New_Executive Application\Executive Application\obj\Release\Executive Application.TrustInfo.xml
+C:\Users\bretr\OneDrive\Documents\VBA\New folder\A3FL_New_Executive Application\Executive Application\obj\Release\Executive Application.exe.manifest
+C:\Users\bretr\OneDrive\Documents\VBA\New folder\A3FL_New_Executive Application\Executive Application\obj\Release\Executive Application.application
+C:\Users\bretr\OneDrive\Documents\VBA\New folder\A3FL_New_Executive Application\Executive Application\obj\Release\Executive Application.exe
+C:\Users\bretr\OneDrive\Documents\VBA\New folder\A3FL_New_Executive Application\Executive Application\obj\Release\Executive Application.pdb
